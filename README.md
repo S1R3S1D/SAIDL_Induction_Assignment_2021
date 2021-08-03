@@ -1,1 +1,5 @@
-# SAIDL_Induction_Assignment_2021
+## SAIDL Induction Assignment 2021
+
+### The Induction assignment consists of 2 parts :
+
+Research Paper Formulation : 
