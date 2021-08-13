@@ -18,8 +18,8 @@ train_dataloader = DataLoader(train_data, batch_size=64, shuffle=True)
 test_dataloader = DataLoader(test_data, batch_size=64, shuffle=True)
 
 #Initializing Hyperparameters
-epochs = 100
-learning_rate = 0.0001
+epochs = 35
+learning_rate = 0.001
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 #Creating the basic Block For Residual Deep Learing Network
